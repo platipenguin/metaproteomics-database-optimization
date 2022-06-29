@@ -4,6 +4,8 @@ set -e
 
 module load nextflow
 
+export NXF_VER=20.07.1
+
 WORKING_DIR=""
 
 nextflow \
