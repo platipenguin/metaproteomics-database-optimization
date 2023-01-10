@@ -1,0 +1,30 @@
+seqid,label,batch,subject_id,Manuscript_ID,pyro_id,visit_type,is_case,menses,nugent,amsel,pH,vag_fluid,clue,whiff,visit_date,method_manuscript_id
+m3n702s518,1284,3,1284,Subject 31,p3z1r28,baseline,no,no,0,neg,4.7,Other,absent,neg,39933,BV-_1
+m3n702s520,1289,3,1289,Subject 32,p4z2r13,baseline,no,no,0,neg,4,Normal,absent,neg,40218,BV-_2
+m3n702s521,1290,3,1290,Subject 33,p3z1r29,baseline,no,no,0,neg,4.4,Normal,absent,neg,39947,BV-_3
+m3n703s520,1292,3,1292,Subject 34,p3z2r10,baseline,yes,no,8,pos,5.4,"Thin, homogeneous discharge",many,pos,39951,BV+_1
+m3n703s521,1294,3,1294,Subject 35,p3z1r11,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,39961,BV+_2
+m3n703s522,1296,3,1296,Subject 36,p3z1r12,baseline,yes,no,8,pos,5.8,"Thin, homogeneous discharge",few,pos,39962,BV+_3
+m3n704s513,1299,3,1299,Subject 37,p4z2r64,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40253,BV+_4
+m3n704s515,1303,3,1303,Subject 38,p4z2r66,baseline,yes,yes,9,pos,5.3,"Thin, homogeneous discharge",absent,pos,40281,BV+_5
+m3n704s516,1304,3,1304,Subject 39,p3z1r15,baseline,yes,no,10,pos,5.6,"Thin, homogeneous discharge",many,pos,40060,BV+_6
+m3n704s517,1306,3,1306,Subject 40,p3z1r16,baseline,yes,no,8,pos,5,"Thin, homogeneous discharge",many,pos,40070,BV+_7
+m3n704s518,1310,3,1310,Subject 41,p4z2r14,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40078,BV+_8
+m3n702s522,1314,3,1314,Subject 42,p3z1r69,baseline,no,no,1,neg,5,Other,absent,neg,40087,BV-_4
+m3n703s513,1316,3,1316,Subject 43,p3z1r55,baseline,no,no,0,neg,4,Normal,absent,neg,40098,BV-_5
+m3n704s520,1318,3,1318,Subject 44,p3z1r61,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40099,BV+_9
+m3n704s521,1320,3,1320,Subject 45,p4z1r63,baseline,yes,no,8,pos,5,"Thin, homogeneous discharge",few,pos,40100,BV+_10
+m3n704s522,1322,3,1322,Subject 46,p3z1r18,baseline,yes,no,7,pos,5.3,"Thin, homogeneous discharge",many,pos,40101,BV+_11
+m3n705s513,1324,3,1324,Subject 47,p4z1r67,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40108,BV+_12
+m3n705s515,1326,3,1326,Subject 48,p3z1r25,baseline,no,no,0,neg,4.4,"Thin, homogeneous discharge",absent,neg,40112,BV-_6
+m3n705s516,1328,3,1328,Subject 49,p4z2r71,baseline,yes,no,8,pos,5.3,Normal,many,pos,40121,BV+_13
+m3n703s515,1334,3,1334,Subject 50,p4z2r77,baseline,no,no,3,neg,5,Normal,absent,neg,40191,BV-_7
+m3n705s517,1336,3,1336,Subject 51,p4z2r78,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40204,BV+_14
+m3n703s516,1338,3,1338,Subject 52,p4z2r79,baseline,no,no,0,neg,4.4,Normal,absent,neg,40210,BV-_8
+m3n703s517,1340,3,1340,Subject 53,p4z2r80,baseline,no,no,0,neg,4.4,Normal,absent,neg,40210,BV-_9
+m3n705s518,1342,3,1342,Subject 54,p4z2r19,baseline,yes,no,8,pos,5.3,Normal,many,pos,40218,BV+_15
+m3n705s520,1346,3,1346,Subject 55,p4z2r24,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40246,BV+_16
+m3n705s521,1348,3,1348,Subject 56,p4z2r26,baseline,yes,no,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40288,BV+_17
+m3n705s522,1350,3,1350,Subject 57,p4z2r27,baseline,yes,no,8,pos,5.6,"Thin, homogeneous discharge",few,pos,40295,BV+_18
+m3n706s513,1356,3,1356,Subject 59,p4z2r1,baseline,yes,yes,8,pos,5.3,"Thin, homogeneous discharge",many,pos,40337,BV+_19
+m3n706s515,1358,3,1358,Subject 60,p4z2r30,baseline,yes,no,9,pos,5.3,"Thin, homogeneous discharge",many,pos,40339,BV+_20
